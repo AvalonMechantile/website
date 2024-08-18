@@ -1,29 +1,9 @@
 # Avalon Mercantile
 
-
-
+Welcome to Avalon Mercantile! We are a local business specializing in custom embroidery, crafts, engraving, and various other creations that can be built with a laser cutter. Our skilled artisans take pride in crafting unique and personalized items that cater to your specific needs and preferences. Whether you're looking for a one-of-a-kind gift, custom apparel, or bespoke home decor, Avalon Mercantile is here to bring your vision to life.
 
 
 ## Contact Us
-
-<!-- modify this form HTML and place wherever you want your form
-<form
-  action="https://formspree.io/f/mgvwlezk"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <button type="submit">Send</button>
-</form>
- -->
-
-
 
 <form
   action="https://formspree.io/f/mgvwlezk"
